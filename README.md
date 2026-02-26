@@ -115,12 +115,10 @@ Concept explanations and deeper theory are documented in my separate:
 **knowledge-base repository**
 
 This lab focuses on:
-
 * practice
 * implementation
 * experimentation
 
----
 
 # 🔥 Rules of This Lab
 
@@ -130,7 +128,6 @@ This lab focuses on:
 * Document important insights
 * Improve daily, even if progress is small
 
----
 
 # 🚀 Long-Term Vision
 
